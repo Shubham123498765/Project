@@ -4,7 +4,7 @@ import wolframalpha
   
 def show_answer():                   #Answer function
 
-    app_id = "6HH4YA-KLRHRL6JVW"     #API Key
+    app_id = ""     #API Key
 
     client = wolframalpha.Client(app_id)  #Verification of API key
 
